@@ -1,0 +1,12 @@
+[submodule "spacebrew"]
+	path = spacebrew
+	url = https://github.com/Spacebrew/spacebrew
+[submodule "spacebrew.js"]
+	path = spacebrew.js
+	url = https://github.com/Spacebrew/spacebrew.js
+[submodule "spacebrewP5"]
+	path = spacebrewP5
+	url = https://github.com/Spacebrew/spacebrewP5
+[submodule "ofxSpacebrew"]
+	path = ofxSpacebrew
+	url = https://github.com/Spacebrew/ofxSpacebrew
