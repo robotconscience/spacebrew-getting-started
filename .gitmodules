@@ -10,3 +10,6 @@
 [submodule "ofxSpacebrew"]
 	path = ofxSpacebrew
 	url = https://github.com/Spacebrew/ofxSpacebrew
+[submodule "ofxLibwebsockets"]
+	path = ofxLibwebsockets
+	url = https://github.com/labatrockwell/ofxLibwebsockets.git
