@@ -6,13 +6,13 @@ This is a simple repository with a few basic [Spacebrew](http://docs.spacebrew.c
 * Run this line to checkout the repository and initialize all submodules:
 
 ```
-git clone https://github.com/robotconscience/spacebrew-getting-started.git && cd spacebrew-getting-started && git submodule update --init --recursive
+git clone --recursive https://github.com/robotconscience/spacebrew-getting-started.git
 ```
 
 * If you have [Node.js](https://nodejs.org/en/) installed, you may also run this line to setup the spacebrew server (assuming you're already inside the folder 'spacebrew-getting-started':
 
 ```
-cd spacebrew && npm install ws && npm install forever-monitor
+cd spacebrew && npm install
 ```
 
 ##Setting up: Libraries
